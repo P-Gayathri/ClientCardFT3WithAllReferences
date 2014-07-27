@@ -1,0 +1,9 @@
+C:\Users\KCraig\Documents\Visual Studio 2010\Projects\ClientcardFB3\FB3Installer\bin\Release\FB3Installer.exe
+C:\Users\KCraig\Documents\Visual Studio 2010\Projects\ClientcardFB3\FB3Installer\bin\Release\FB3Installer.pdb
+C:\Users\KCraig\Documents\Visual Studio 2010\Projects\ClientcardFB3\FB3Installer\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\KCraig\Documents\Visual Studio 2010\Projects\ClientcardFB3\FB3Installer\obj\x86\Release\FB3Installer.Form1.resources
+C:\Users\KCraig\Documents\Visual Studio 2010\Projects\ClientcardFB3\FB3Installer\obj\x86\Release\FB3Installer.Properties.Resources.resources
+C:\Users\KCraig\Documents\Visual Studio 2010\Projects\ClientcardFB3\FB3Installer\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\KCraig\Documents\Visual Studio 2010\Projects\ClientcardFB3\FB3Installer\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\KCraig\Documents\Visual Studio 2010\Projects\ClientcardFB3\FB3Installer\obj\x86\Release\FB3Installer.exe
+C:\Users\KCraig\Documents\Visual Studio 2010\Projects\ClientcardFB3\FB3Installer\obj\x86\Release\FB3Installer.pdb

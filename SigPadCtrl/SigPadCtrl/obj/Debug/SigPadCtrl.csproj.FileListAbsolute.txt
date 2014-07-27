@@ -1,0 +1,16 @@
+C:\Users\KCraig\Documents\Visual Studio 2010\Projects\SigPadCtrl\SigPadCtrl\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\KCraig\Documents\Visual Studio 2010\Projects\SigPadCtrl\SigPadCtrl\obj\Debug\Interop.SIGPLUSLib.dll
+C:\Users\KCraig\Documents\Visual Studio 2010\Projects\SigPadCtrl\SigPadCtrl\obj\Debug\AxInterop.SIGPLUSLib.dll
+C:\Users\KCraig\Documents\Visual Studio 2010\Projects\SigPadCtrl\SigPadCtrl\obj\Debug\SigPadCtrl.csproj.ResolveComReference.cache
+C:\Users\KCraig\Documents\Visual Studio 2010\Projects\SigPadCtrl\SigPadCtrl\obj\Debug\SigPadCtrl.Properties.Resources.resources
+C:\Users\KCraig\Documents\Visual Studio 2010\Projects\SigPadCtrl\SigPadCtrl\obj\Debug\SigPadCtrl.SigPadInputCtrl.resources
+C:\Users\KCraig\Documents\Visual Studio 2010\Projects\SigPadCtrl\SigPadCtrl\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\KCraig\Documents\Visual Studio 2010\Projects\SigPadCtrl\SigPadCtrl\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\KCraig\Documents\Visual Studio 2010\Projects\SigPadCtrl\SigPadCtrl\bin\Debug\SigPadCtrl.dll
+C:\Users\KCraig\Documents\Visual Studio 2010\Projects\SigPadCtrl\SigPadCtrl\bin\Debug\SigPadCtrl.pdb
+C:\Users\KCraig\Documents\Visual Studio 2010\Projects\SigPadCtrl\SigPadCtrl\bin\Debug\Interop.SIGPLUSLib.dll
+C:\Users\KCraig\Documents\Visual Studio 2010\Projects\SigPadCtrl\SigPadCtrl\bin\Debug\AxInterop.SIGPLUSLib.dll
+C:\Users\KCraig\Documents\Visual Studio 2010\Projects\SigPadCtrl\SigPadCtrl\obj\Debug\SigPadCtrl.dll
+C:\Users\KCraig\Documents\Visual Studio 2010\Projects\SigPadCtrl\SigPadCtrl\obj\Debug\SigPadCtrl.pdb
+C:\Users\KCraig\Documents\Visual Studio 2010\Projects\SigPadCtrl\SigPadCtrl\bin\Debug\SigPlusNET.dll
+C:\Users\KCraig\Documents\Visual Studio 2010\Projects\SigPadCtrl\SigPadCtrl\bin\Debug\SigPadCtrl.dll.config

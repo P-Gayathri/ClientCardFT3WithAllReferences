@@ -1,0 +1,12 @@
+C:\Users\KCraig\Documents\Visual Studio 2010\Projects\SigPadCtrl\TestSgPadCtrl\bin\Debug\TestSgPadCtrl.exe
+C:\Users\KCraig\Documents\Visual Studio 2010\Projects\SigPadCtrl\TestSgPadCtrl\bin\Debug\TestSgPadCtrl.pdb
+C:\Users\KCraig\Documents\Visual Studio 2010\Projects\SigPadCtrl\TestSgPadCtrl\bin\Debug\SigPadCtrl.dll
+C:\Users\KCraig\Documents\Visual Studio 2010\Projects\SigPadCtrl\TestSgPadCtrl\bin\Debug\SigPadCtrl.pdb
+C:\Users\KCraig\Documents\Visual Studio 2010\Projects\SigPadCtrl\TestSgPadCtrl\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\KCraig\Documents\Visual Studio 2010\Projects\SigPadCtrl\TestSgPadCtrl\obj\x86\Debug\TestSgPadCtrl.Form1.resources
+C:\Users\KCraig\Documents\Visual Studio 2010\Projects\SigPadCtrl\TestSgPadCtrl\obj\x86\Debug\TestSgPadCtrl.Properties.Resources.resources
+C:\Users\KCraig\Documents\Visual Studio 2010\Projects\SigPadCtrl\TestSgPadCtrl\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\KCraig\Documents\Visual Studio 2010\Projects\SigPadCtrl\TestSgPadCtrl\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\KCraig\Documents\Visual Studio 2010\Projects\SigPadCtrl\TestSgPadCtrl\obj\x86\Debug\TestSgPadCtrl.exe
+C:\Users\KCraig\Documents\Visual Studio 2010\Projects\SigPadCtrl\TestSgPadCtrl\obj\x86\Debug\TestSgPadCtrl.pdb
+C:\Users\KCraig\Documents\Visual Studio 2010\Projects\SigPadCtrl\TestSgPadCtrl\bin\Debug\SigPlusNET.dll
